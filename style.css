@@ -1,0 +1,40 @@
+body{
+  background-color: yellow;
+}
+a{
+  color: black;
+}
+img{
+  height: 350px;
+  width: auto;
+}
+.Lasagna{  
+  background-color: red;
+  float: left;
+  justify-content: center;
+    padding: 30px 20px;
+    border: 3px solid;
+    height: 400px;
+    width: 500px;
+    
+} 
+.Carbonara{
+  background-color: red;
+  float: right;
+  justify-content: center;
+  padding: 30px 20px;
+  border: 3px solid;
+  height: 400px;
+  width: 500px;
+}
+.NeedMore{
+  left: 47%;
+  position: absolute  ;
+  bottom: 300px;
+
+}
+div {
+display: block;
+display: inline;
+text-align: center;
+}
